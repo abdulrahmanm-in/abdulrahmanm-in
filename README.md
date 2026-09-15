@@ -1,58 +1,81 @@
+<div align="center">
+
 # Hi, I'm Abdul Rahman 👋
 
-Software Engineer at Tech Mahindra with 2 years of experience building and maintaining enterprise web applications in production environments.
+[![Experience](https://img.shields.io/badge/Tech_Mahindra-Enterprise_SWE-red?style=flat-square)](https://www.linkedin.com/in/abdulrahmanm-in)
+[![Specialization](https://img.shields.io/badge/Focus-Backend_%26_Distributed_Systems-blue?style=flat-square)](#)
 
-Alongside my professional experience, I build backend applications using **Python and FastAPI**, with a focus on REST APIs, databases, automated testing, containerization, and reliable software delivery.
+<br/>
 
-I'm particularly interested in **backend engineering, cloud technologies, software architecture, and data-driven applications**.
+[Portfolio](https://portfolio.icqs.fyi) • [Writing](https://writing.icqs.fyi) • [LinkedIn](https://www.linkedin.com/in/abdulrahmanm-in) • [Email](mailto:abdulrahman@icqs.fyi)
 
-## 🔗 Explore
+</div>
 
-**[My Portfolio](https://portfolio.icqs.fyi)** · **[My Writing](https://writing.icqs.fyi)**
+---
 
-## 🚀 Featured Work
+### ⚡ Overview
 
-### [FocusSprint](https://focussprint.in)
+Software Engineer with 2 years of enterprise experience engineering resilient backend services, automated ETL pipelines, and cloud-native architectures. Focused on shipping clean, containerized Python/FastAPI solutions backed by robust database design and automated CI/CD workflows.
 
-A full-stack task management platform built with a Python/FastAPI backend and Angular frontend.
+---
 
-### RoleLens
+### 🚀 Featured Platforms
 
-A job-market analytics platform built with Python/FastAPI, featuring automated ETL pipelines, data processing, scheduled jobs, and MongoDB-based analytics.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://focussprint.in">FocusSprint</a></h3>
+      <p align="center"><em>Full-stack task orchestration platform built for high-throughput productivity tracking.</em></p>
+      <ul>
+        <li>Engineered decoupled backend services using <b>FastAPI</b> & <b>PostgreSQL/SQLAlchemy</b></li>
+        <li>Automated container lifecycles and deployments via <b>Docker</b> & <b>GitHub Actions</b></li>
+        <li>Implemented secure JWT authentication and role-scoped session flows</li>
+      </ul>
+      <p align="center">
+        <code>FastAPI</code> • <code>PostgreSQL</code> • <code>Docker</code> • <code>Angular</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">RoleLens</h3>
+      <p align="center"><em>Automated ETL data pipeline analyzing market-scale hiring trends and developer shifts.</em></p>
+      <ul>
+        <li>Automated recurring ingestion pipelines utilizing <b>APScheduler</b> & <b>Pandas</b></li>
+        <li>Architected low-latency document storage and queries on <b>MongoDB Atlas</b></li>
+        <li>Structured containerized deployment workflows for scalable background execution</li>
+      </ul>
+      <p align="center">
+        <code>Python</code> • <code>FastAPI</code> • <code>MongoDB</code> • <code>Pandas</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
-## 🛠️ Technologies
+---
 
-**Languages:** Python · SQL · PHP · JavaScript · TypeScript
+### 🛠️ Tech Stack & Ecosystem
 
-**Backend:** FastAPI · REST APIs · Pydantic · SQLAlchemy
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,docker,aws,ts,angular,nextjs,git,linux&perline=11" alt="Tech Stack" />
+</div>
 
-**Databases & Data:** PostgreSQL · MongoDB · MySQL · Pandas · ETL
+<br/>
 
-**Testing & DevOps:** Pytest · Docker · Docker Compose · GitHub Actions · Linux · Git
+```python
+class AbdulRahman:
+    def __init__(self):
+        self.languages  = ["Python", "SQL", "TypeScript", "JavaScript", "PHP"]
+        self.backend    = ["FastAPI", "Pydantic", "SQLAlchemy", "REST APIs"]
+        self.databases  = ["PostgreSQL", "MongoDB"]
+        self.devops     = ["Docker", "GitHub Actions", "AWS", "Linux", "Pytest"]
+        self.frontend   = ["Angular", "Next.js", "React", "Tailwind CSS"]
+```
 
-**Web & Cloud:** Next.js · React · Angular · Drupal · Tailwind CSS · AWS
+---
 
-## 📜 Certifications
+### 📜 Certifications
 
-- Professional Cloud Developer
-- AWS Certified Cloud Practitioner
-- Associate Data Practitioner
+* ☁️ **AWS Certified Cloud Practitioner**
+* 🌐 **Professional Cloud Developer**
+* 📊 **Associate Data Practitioner**
 
-## 📫 Connect
-
-**[LinkedIn](https://www.linkedin.com/in/abdulrahmanm-in)** · **[Portfolio](https://portfolio.icqs.fyi)** · **[Writing](https://writing.icqs.fyi)** · **[Email](mailto:abdulrahman@icqs.fyi)**
-
-<!--
-**abdulrahmanm-in/abdulrahmanm-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
