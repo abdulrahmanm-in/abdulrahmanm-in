@@ -55,7 +55,7 @@ Software Engineer with 2 years of enterprise experience engineering resilient ba
 ### 🛠️ Tech Stack & Ecosystem
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,docker,aws,ts,angular,nextjs,git,linux&perline=11" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,mysql,docker,aws,ts,angular,git,linux&perline=11" alt="Tech Stack" />
 </div>
 
 <br/>
@@ -64,10 +64,10 @@ Software Engineer with 2 years of enterprise experience engineering resilient ba
 class AbdulRahman:
     def __init__(self):
         self.languages  = ["Python", "SQL", "TypeScript", "JavaScript", "PHP"]
-        self.backend    = ["FastAPI", "Pydantic", "SQLAlchemy", "REST APIs"]
-        self.databases  = ["PostgreSQL", "MongoDB"]
-        self.devops     = ["Docker", "GitHub Actions", "AWS", "Linux", "Pytest"]
-        self.frontend   = ["Angular", "Next.js", "React", "Tailwind CSS"]
+        self.backend    = ["FastAPI", "Pydantic", "SQLAlchemy", "REST APIs", "JWT Auth"]
+        self.data       = ["PostgreSQL", "MongoDB", "MySQL", "Pandas", "ETL Pipelines"]
+        self.devops     = ["Docker", "Docker Compose", "GitHub Actions", "AWS", "Linux"]
+        self.testing    = ["Pytest", "FastAPI TestClient"]
 ```
 
 ---
